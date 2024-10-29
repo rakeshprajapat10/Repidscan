@@ -53,6 +53,6 @@ Installation
 
 Alternatively, your can install the rapidscan python module with pip. This will create a link for rapidscan in your PATH.
 
-git clone https://github.com/skavngr/rapidscan.git /opt/
+git clone https://github.com/rakeshprajapat10/Repidscan
 cd /opt/rapidscan
 python3 -m pip install .
